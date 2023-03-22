@@ -119,3 +119,26 @@ p {
     padding-bottom: 20px;
     line-height: 1.7em;
 }
+
+/* Home info */
+
+#home-info {
+    height: 600px;
+}
+
+#home-info .info-img {
+    float: left;
+    width: 50%;
+    background: url('../img/hotel.jpg') no-repeat;
+    min-height: 100%;
+    background-size: cover;
+}
+
+#home-info .info-content {
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+}
