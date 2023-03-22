@@ -25,6 +25,13 @@ p {
     margin: 10px 0;
 }
 
+/* Utility Classes */
+.container {
+    margin: auto;
+    max-width: 1100px;
+    overflow: auto;
+    padding: 0 20px;
+}
 /* Navbar  */
 
 #navbar {
@@ -62,10 +69,10 @@ p {
     color: #f7c08a;
 }
 
-/* Utility Classes */
-.container {
-    margin: auto;
-    max-width: 1100px;
-    overflow: auto;
-    padding: 0 20px;
+/* Showcase */
+
+#showcase {
+    background: url('../img/room.jpg.jpg') no-repeat center center/cover;
+    height: 600px;
 }
+
