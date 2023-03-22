@@ -40,3 +40,17 @@ p {
     float: left;
     padding-top: 20px;
 }
+
+#navbar ul {
+    list-style: none;
+    float: right;
+}
+
+#navbar ul li {
+    float: left;
+}
+
+#navbar ul li a {
+    display: block;
+    padding: 20px;
+}
