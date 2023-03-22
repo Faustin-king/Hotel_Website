@@ -60,6 +60,18 @@ p {
     background: #f4f4f4;
     color: #333;
 }
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+.bg-primary {
+    background: #333;
+    color: #f7c08a;
+}
 /* Navbar  */
 
 #navbar {
@@ -141,4 +153,8 @@ p {
     text-align: center;
     padding: 150px 30px;
     overflow: hidden;
+}
+
+#home-info .info-content p {
+    padding-bottom: 30px;
 }
