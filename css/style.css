@@ -260,6 +260,7 @@ p {
   padding: 20px;
   margin-bottom: 40px;
   border-radius: 5px;
+  opacity: 0.9;
 }
 #testimonials .testimonial img {
   width: 100px;
