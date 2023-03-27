@@ -255,8 +255,17 @@ p {
   text-align: center;
   padding-bottom: 40px;
 }
+
+#testimonials .testimonial {
+  padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 5px;
+}
 #testimonials .testimonial img {
   width: 100px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
 }
 /* Footer */
 #main-footer {
