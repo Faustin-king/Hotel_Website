@@ -247,7 +247,7 @@ p {
 #testimonials {
   height: 600px;
   background: url("/img/background.jpg.jpg") no-repeat center center/cover;
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
 #testimonials h2 {
