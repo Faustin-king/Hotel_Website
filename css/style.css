@@ -206,6 +206,23 @@ p {
     margin-top: 20px;
 }
 
+/* About */
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100%;
+}
+
+#about-info .info-right img {
+   display: block;
+   margin: auto;
+   width: 70%;
+}
+
+#about-info .info-left {
+    float: left;
+    width: 50%;
+}
 /* Footer */
 #main-footer {
     text-align: center;
