@@ -222,6 +222,7 @@ p {
 #about-info .info-left {
     float: left;
     width: 50%;
+    min-height: 100%;
 }
 /* Footer */
 #main-footer {
