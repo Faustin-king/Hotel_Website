@@ -202,6 +202,10 @@ p {
     border-color: #f7c08a;
 }
 
+#contact-info {
+    margin-top: 20px;
+}
+
 /* Footer */
 #main-footer {
     text-align: center;
