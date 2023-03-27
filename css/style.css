@@ -76,6 +76,9 @@ p {
 .clr {
     clear: both;
 }
+.l-heading {
+    font-size: 40px ;
+}
 
 /* padding */
 .py-1 {  padding: 10px 0; }
