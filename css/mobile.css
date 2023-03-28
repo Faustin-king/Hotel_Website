@@ -1,1 +1,5 @@
-
+/* Navbar */
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
