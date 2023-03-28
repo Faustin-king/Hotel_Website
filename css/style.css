@@ -235,6 +235,7 @@ p {
   margin: auto;
   width: 70%;
   border-radius: 50%;
+  height: 270px;
 }
 
 #about-info .info-left {
