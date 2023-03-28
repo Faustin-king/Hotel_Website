@@ -156,7 +156,7 @@ p {
 /* Home info */
 
 #home-info {
-  height: 600px;
+  height: 450px;
 }
 
 #home-info .info-img {
@@ -172,7 +172,7 @@ p {
   width: 50%;
   height: 100%;
   text-align: center;
-  padding: 150px 30px;
+  padding: 50px 30px;
   overflow: hidden;
 }
 
