@@ -31,3 +31,11 @@
   float: none;
   width: 100%;
 }
+
+/* About */
+
+#about-info .info-right,
+#about-info .info-left {
+  float: none;
+  width: 100%;
+}
