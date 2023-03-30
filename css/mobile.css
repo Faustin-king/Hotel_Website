@@ -19,6 +19,11 @@
   height: 100%;
 }
 
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
 /* Home Info */
 
 #home-info .info-img {
