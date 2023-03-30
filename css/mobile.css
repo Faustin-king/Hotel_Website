@@ -43,3 +43,7 @@
 .l-heading {
   text-align: center;
 }
+
+#about-info .info-right {
+  margin-top: 30px;
+}
