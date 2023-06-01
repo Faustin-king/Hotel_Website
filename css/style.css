@@ -9,7 +9,7 @@
 
 html,
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.7em;
 }
 
@@ -134,7 +134,7 @@ p {
 /* Showcase */
 
 #showcase {
-  background: url("../img/room.jpg.jpg") no-repeat center center/cover;
+  background: url('../img/room.jpg.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
@@ -163,9 +163,8 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url("../img/hotel.jpg") no-repeat;
+  background: url('../img/hotel.jpg') no-repeat center center/cover;
   min-height: 100%;
-  background-size: cover;
 }
 
 #home-info .info-content {
@@ -248,8 +247,9 @@ p {
 /* Testimonials */
 #testimonials {
   height: 100%;
-  background: url("/img/background.jpg.jpg") no-repeat center center/cover;
+  background: url('/img/background.jpg.jpg') no-repeat;
   padding-top: 100px;
+  background-size: cover;
 }
 
 #testimonials h2 {
